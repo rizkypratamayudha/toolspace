@@ -1,0 +1,6 @@
+# robots.txt for ToolSpace
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://toolspace.vercel.app/sitemap.xml
