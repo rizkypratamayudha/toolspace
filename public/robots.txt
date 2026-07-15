@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://yuyud.tech/sitemap.xml
+Sitemap: https://toolspace.yuyud.tech/sitemap.xml
