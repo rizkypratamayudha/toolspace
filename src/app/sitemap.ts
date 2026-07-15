@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { tools } from "@/config/tools";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://toolspace.vercel.app";
+  const baseUrl = "https://yuyud.tech";
 
   const toolPages = tools.map((tool) => ({
     url: `${baseUrl}/tools/${tool.slug}`,

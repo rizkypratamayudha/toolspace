@@ -75,9 +75,14 @@ export function Footer() {
             </div>
             <span className="text-xl font-extrabold text-gradient">ToolSpace</span>
           </div>
-          <p className="text-sm font-medium text-[#6B7280] dark:text-[#9CA3AF]">
-            © {new Date().getFullYear()} ToolSpace. All rights reserved.
-          </p>
+          <div className="flex items-center gap-6">
+            <Link href="/privacy-policy" className="text-sm font-medium text-[#6B7280] dark:text-[#9CA3AF] hover:text-[#62CDFF] dark:hover:text-[#62CDFF] transition-colors">
+              Privacy Policy
+            </Link>
+            <p className="text-sm font-medium text-[#6B7280] dark:text-[#9CA3AF]">
+              © {new Date().getFullYear()} ToolSpace. All rights reserved.
+            </p>
+          </div>
         </div>
       </div>
     </footer>

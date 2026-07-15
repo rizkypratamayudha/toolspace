@@ -3,7 +3,7 @@ export const siteConfig = {
   title: "ToolSpace - Free Online Tools",
   description:
     "Free online tools for PDF, images, text, and developers. Fast, secure, no signup required. Your files never leave your browser.",
-  url: "https://toolspace.vercel.app",
+  url: "https://yuyud.tech",
   ogImage: "/og.png",
   links: {
     twitter: "",
