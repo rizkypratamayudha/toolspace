@@ -55,6 +55,7 @@ export default function RootLayout({
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
+        <script src="https://www.chattoko.biz.id/api/widget/9e27be94-cb22-47ce-b77f-5063c51c1bd4" async></script>
       </head>
       <body className="min-h-full flex flex-col font-sans">
         <ThemeProvider>
